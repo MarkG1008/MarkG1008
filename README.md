@@ -20,7 +20,7 @@
 
 <h2>📺 Continued Education </h2>
 
-- Google Cyber Security Professional Certificate
+- [Google Cyber Security Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_google-cybersecurity_google_FTCOF_professional-certificates_country-US&campaignid=20086358053&adgroupid=147458924814&device=c&keyword=google%20cybersecurity%20certification&matchtype=b&network=g&devicemodel=&adposition=&creativeid=657336976318&hide_mobile_promo&gclid=Cj0KCQjwsp6pBhCfARIsAD3GZubFP1DI8RphL8zDk-94Eua2Juv0FErzmVOkXWeaj9cWa1zyMQ-bG34aAvRSEALw_wcB).
 - Google IT Support Professioanl Certificate
 - CompTIA Security+ (In Progess)
 
