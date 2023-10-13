@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mark! <br/><a href="https://github.com/joshmadakor1">Student</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Mark! <br/><a href="(https://www.linkedin.com/in/mark-gonzalez-853b94198/)">Student</a>, <a href="https://www.linkedin.com/in/mark-gonzalez-853b94198/">Aspiring Cybersecurity Professional</a>
 
 <h2>Cybersecurity Projects:</h2>
 
