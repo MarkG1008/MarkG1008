@@ -5,7 +5,14 @@
 - <b>Google Certificate</b>
   - [Professional Statement](https://github.com/MarkG1008/Professional-Statement)
   - [Fictional Company Security Audit](https://github.com/MarkG1008/Fictional-Company-Security-Audit)
+  - [Incident Report Analysis](https://github.com/MarkG1008/Incident-Report-Analysis)
   - [Using SQL Filters](https://github.com/MarkG1008/SQL-Filters)
+  - [Linux File Permissions](https://github.com/MarkG1008/Linux-File-Permissions)
+  - [Vulnerability Assessment Report](https://github.com/MarkG1008/Vulnerability-Assessment-Report)
+  - [Incident Handler's Journal](https://github.com/MarkG1008/Incident-Handler-s-Journal)
+  - [Updating a File with Python ](https://github.com/MarkG1008/Updating-a-File-With-Python)
+
+
   
 
 <h2>Continued Education: </h2>
