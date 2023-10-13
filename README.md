@@ -3,6 +3,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Google Certificate</b>
+  - [Professional Statement](https://github.com/MarkG1008/Professional-Statement)
   - [Fictional Company Security Audit](https://github.com/MarkG1008/Fictional-Company-Security-Audit)
   - [Using SQL Filters](https://github.com/MarkG1008/SQL-Filters)
   
